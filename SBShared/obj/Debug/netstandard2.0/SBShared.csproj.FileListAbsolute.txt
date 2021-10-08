@@ -1,0 +1,9 @@
+E:\工作准备\c#练习\SBSender\SBShared\bin\Debug\netstandard2.0\SBShared.deps.json
+E:\工作准备\c#练习\SBSender\SBShared\bin\Debug\netstandard2.0\SBShared.dll
+E:\工作准备\c#练习\SBSender\SBShared\bin\Debug\netstandard2.0\SBShared.pdb
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.csprojAssemblyReference.cache
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfoInputs.cache
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfo.cs
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.dll
+E:\工作准备\c#练习\SBSender\SBShared\obj\Debug\netstandard2.0\SBShared.pdb

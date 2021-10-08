@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DPMdGAlLCXcd4+nQsZRCTqprPYip4KutczejlRZO/SHJd3+CGeZr5z3QBKSz5TErUteyuzFV16reuE3tMoSO4w==",
+  "success": true,
+  "projectFilePath": "E:\\工作准备\\c#练习\\SBSender\\SBShared\\SBShared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
